@@ -21,7 +21,7 @@ void main() {
   int8_t servo_pin = 27; // GPIO pin 27 on ESP32
   int8_t pwm_channel = 0; // select PWM channel 0
   int8_t timer_width = 16; // timer width for PWM
-  int8_t hertz = 50; // default HZ for US
+  int8_t hertz = 50; // default Hertz
   
   // Values for TowerPro SG90 small servos
   int16_t low = 1638;
@@ -63,7 +63,7 @@ void main() {
   int8_t pwm_channel_one = 0; // select PWM channel 0 for servo_pin_one
   int8_t pwm_channel_two = 2; // select PWM channel 2 for servo_pin_one
   int8_t timer_width = 16; // timer width for PWM
-  int8_t hertz = 50; // default HZ for US
+  int8_t hertz = 50; // default Hertz
   
   // Values for TowerPro SG90 small servos
   int16_t low = 1638;
