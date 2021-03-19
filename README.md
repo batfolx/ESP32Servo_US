@@ -33,7 +33,7 @@ void main() {
   delay(1000); 
   
   
-  servo.write (servo.get_low() );
+  servo.write( servo.get_low() );
   delay(1000);
   
   int16_t current_value = servo.read();  
