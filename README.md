@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    A small utility package that allows you to control a servo with the ESP32 with relative ease
+    A small utility package that allows you to control a servo with the ESP32 with relative ease.
   </p>
   
   <p>
@@ -46,7 +46,7 @@ void main() {
 
 <div>
   <p>
-    Here is a small exmaple controling multiple servos below
+    Here is a small exmaple controling multiple servos below.
   </p>
 
 </div>
