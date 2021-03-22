@@ -38,6 +38,7 @@ void main() {
   
   int16_t current_value = servo.read();  
   
+  
   printf("Servos current value is %d\n", current_value);
 
 }
